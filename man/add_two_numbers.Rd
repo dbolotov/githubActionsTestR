@@ -20,4 +20,5 @@ Add together two numbers
 \examples{
 add_two_numbers(1, 1)
 add_two_numbers(10, 1)
+
 }
